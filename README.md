@@ -1,2 +1,1 @@
-# rsschool-cv
-RSschool
+https://your-github-account.github.io/rsschool-cv/cv.md
